@@ -1,0 +1,17 @@
+{
+    "name": "com.nosirrahh.unityaddressablestools",
+    "version": "1.0.0",
+    "displayName": "UnityAddressablesTools",
+    "description": "The UnityAddressablesTools package.",
+    "unity": "2022.1",
+    "dependencies": {
+        "com.unity.addressables": "1.0.0",
+        "com.nosirrahh.unitycoretools": "1.0.0"
+    },
+    "keywords": ["unity", "tools", "addressables"],
+    "author": {
+        "name": "nosirrahh",
+        "email": "nosirrahh@gmail.com",
+        "url": "https://github.com/nosirrahh/"
+    }
+}
